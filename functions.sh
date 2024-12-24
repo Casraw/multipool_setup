@@ -11,6 +11,7 @@ YELLOW=$ESC_SEQ"33;01m"
 BLUE=$ESC_SEQ"34;01m"
 MAGENTA=$ESC_SEQ"35;01m"
 CYAN=$ESC_SEQ"36;01m"
+STORAGE_ROOT=/home/crypto-data
 
 function spinner
  {

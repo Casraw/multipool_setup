@@ -4,6 +4,7 @@
 # Updated by cryptopool.builders for crypto use...
 #####################################################
 
+STORAGE_ROOT=/home/crypto-data
 source /etc/functions.sh
 cd ~/multipool/install
 clear
